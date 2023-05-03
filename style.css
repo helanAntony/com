@@ -220,7 +220,7 @@ body {
     position: absolute;
     bottom: -120px;
     right: 0;
-    background: url("/1.png");
+    background: url("./1.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -265,7 +265,7 @@ body {
     bottom: -120px;
     height: 200px;
     width: 200px;
-    background: url("/2.png");
+    background: url("./2.png");
     background-repeat: no-repeat;
     background-size: contain;}
 
@@ -276,7 +276,7 @@ body {
     height: 200px;
     width: 200px;
     background-color: rgb(250, 146, 146);
-    background: url("/3.png");
+    background: url("./3.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
@@ -323,7 +323,7 @@ body {
 }
 .__3{
 
-    background: url("/joshua-rawson-harris-oEEdL2vZKJg-unsplash.jpg");
+    background: url("./joshua-rawson-harris-oEEdL2vZKJg-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: contain;
     grid-column-start: 12;
@@ -333,7 +333,7 @@ body {
 
 }
 .__4{
-    background: url("/jud-mackrill-Of_m3hMsoAA-unsplash.jpg");
+    background: url("./jud-mackrill-Of_m3hMsoAA-unsplash.jpg");
     background-size: contain;
     grid-column-start: 4;
     grid-column-end: 10;
@@ -394,7 +394,7 @@ body {
     opacity: 50%;
 }
 .__9{
-    background: url("/krakenimages-Y5bvRlcCx8k-unsplash.jpg");
+    background: url("./krakenimages-Y5bvRlcCx8k-unsplash.jpg");
     background-size: contain;
     grid-column-start: 13;
     grid-column-end: 18;
